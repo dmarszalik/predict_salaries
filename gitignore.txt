@@ -1,0 +1,6 @@
+*.DS_Store
+site/
+.ipynb_checkpoints
+data/
+*.csv
+.ipynb_checkpoints/predict_salaries-checkpoint.ipynb
